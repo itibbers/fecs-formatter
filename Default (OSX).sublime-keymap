@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["command+alt+j"],
+        "command": "fecs"
+    }
+]
