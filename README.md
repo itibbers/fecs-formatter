@@ -15,3 +15,6 @@ git clone https://github.com/itibbers/fecs-formater.git /Users/$(whoami)/Library
 
 默认快捷键为 command+alt+j
 
+对当前整个文件进行格式化，不支持选择区域进行格式化。
+另外格式化的时候大约有1s卡顿，fecs性能太差了😓
+
